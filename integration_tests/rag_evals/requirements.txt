@@ -4,3 +4,5 @@ seaborn
 mlflow
 ragas==0.2.7
 langchain-openai
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+transformers>=4.36.0 # not directly required, pinned by Snyk to avoid a vulnerability
