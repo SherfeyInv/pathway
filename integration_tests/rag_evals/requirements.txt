@@ -4,3 +4,5 @@ seaborn
 mlflow
 ragas==0.2.7
 langchain-openai
+aiohttp>=3.12.14 # not directly required, pinned by Snyk to avoid a vulnerability
+transformers>=4.52.0 # not directly required, pinned by Snyk to avoid a vulnerability
