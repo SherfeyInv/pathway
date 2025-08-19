@@ -24,7 +24,7 @@
     "mapbox-gl": "^2.10.0",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.37",
-    "react": "^18.2.0",
+    "react": "^19.0.0",
     "react-dom": "^18.2.0",
     "react-map-gl": "^7.0.19",
     "style-loader": "^3.3.1",
